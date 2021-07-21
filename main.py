@@ -2,7 +2,7 @@ from typing import List
 
 
 def calculate(grid: List[List]) -> int:
-    """Заменить эту функцию своей."""
+    """Поиск островов."""
     if not grid:
         return 0
 
